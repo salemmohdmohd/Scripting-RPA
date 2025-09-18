@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Google Apps Script
+*.gsheet
+*.gdoc
+*.gs
+
+# Other
+*.bak
+*.swp
